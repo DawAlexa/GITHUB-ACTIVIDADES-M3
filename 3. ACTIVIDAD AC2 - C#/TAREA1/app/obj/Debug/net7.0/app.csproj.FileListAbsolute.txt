@@ -1,0 +1,14 @@
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\bin\Debug\net7.0\app.exe
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\bin\Debug\net7.0\app.deps.json
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\bin\Debug\net7.0\app.runtimeconfig.json
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\bin\Debug\net7.0\app.dll
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\bin\Debug\net7.0\app.pdb
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\app.dll
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\refint\app.dll
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\app.pdb
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+C:\Users\dawal\Desktop\TAREAS 03-12\ACTIVIDAD AC2 - C#\TAREA1\app\obj\Debug\net7.0\ref\app.dll
